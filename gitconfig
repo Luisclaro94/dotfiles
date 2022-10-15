@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = luispedroclaro.1994.5@gmail.com
+	name = Luis Claro
